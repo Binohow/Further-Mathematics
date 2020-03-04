@@ -1,0 +1,13 @@
+Y:.
+    content.bat	目录构成文件
+    contents_table.md 说明文档
+    how1.m
+    how2.m
+    how3.m
+    how4.m
+    how5.m
+    how6.m
+    how7.m
+    how8.m  该文件主要用求函数的微分
+    list.txt
+    readme.md
